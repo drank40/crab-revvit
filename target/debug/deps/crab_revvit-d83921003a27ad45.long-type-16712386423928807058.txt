@@ -1,0 +1,1 @@
+Result<(&str, &str), fn(NotFoundError) -> crates_io_api::Error {crates_io_api::Error::NotFound}>
